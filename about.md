@@ -1,8 +1,8 @@
 ---
-title: About Thomas Nguyen
+title: About
 layout: default
 description: About Thomas Nguyen
-filename: about.md
+filename: about
 ---
 
 ## About Me
