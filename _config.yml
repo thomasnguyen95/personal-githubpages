@@ -4,3 +4,6 @@ show_downloads: false
 
 plugins:
   - jekyll-postcss
+
+postcss:
+  cache: false
