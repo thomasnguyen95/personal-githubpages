@@ -8,26 +8,22 @@
   <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style"
     type="text/css" crossorigin>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#157878">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' }}">
 </head>
 
-<body>
-  <header class="page-header" role="banner">
-    {% include header.html %}
-  </header>
-  <div class="">
+<body class="bg-gradient-to-b from-blue-200 to-green-500">
+  <!-- Navigation bar-->
+  {% include header.html %}
 
-
-    <main id="content" class="main-content" role="main">
+  <!-- Content -->
+    <main id="content" role="main">
       {{ content }}
 
-      <footer class="site-footer">
-      </footer>
-    </main>
-  </div>
 
+    </main>
+  <footer class="">
+  </footer>
 </body>
 
 </html>

@@ -45,3 +45,4 @@ bundle exec jekyll serve
 
 # Other References:
 [Tailwind + Jekyll setup](https://stevenwestmoreland.com/2021/01/using-tailwind-css-with-jekyll.html)
+[jekyll-tailwindcss project](https://github.com/fusco/jekyll-tailwindcss)
